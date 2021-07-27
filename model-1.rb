@@ -6,4 +6,4 @@ is_authorized = false
 
 is_powered_on = true
 
- 
+aircraft = ["N1265, N4523"]
